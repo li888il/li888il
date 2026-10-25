@@ -28,3 +28,15 @@ A robust, lightweight local AI Agent framework built from scratch.
 ### 📊 GitHub Stats
 
 [![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=li888il&show_icons=true&theme=radical&hide_title=true)](https://github.com/li888il)
+
+---
+
+![Python](https://img.shields.io/badge/Python-3.10%2B-blue)
+![Tests](https://img.shields.io/badge/Tests-passing-brightgreen)
+![License](https://img.shields.io/badge/License-MIT-yellow)
+![Status](https://img.shields.io/badge/Status-Active-success)
+
+# Python-Agent-Lab
+
+一个具备**长期记忆**、**工具调用**和**鲁棒错误处理**的 AI Agent 框架。
+...
