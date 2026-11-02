@@ -1,6 +1,6 @@
 ### Hi there, I'm LI888IL 
 
-An undergraduate student majoring in Automation, with a strong focus on **Software Engineering**. Core interests lie in **AI Agent Development**, **Large Language Model (LLM) Applications**, and **Backend Engineering**.
+An undergraduate student majoring in Automation. Core interests lie in **AI Agent Development**, **Large Language Model (LLM) Applications**, and **Backend Engineering**.
 
 ---
 
