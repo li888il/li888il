@@ -1,42 +1,47 @@
-# Hi there, I'm li888il 
+### Hi there, I'm LI888IL 
 
->  Automation Undergraduate.
->  Focus on AI Agents, LLM Applications & Embedded Systems (ESP32).
-
----
-
-### 🛠 Tech Stack & Tools
-
-![Python](https://img.shields.io/badge/Python-3.10%2B-blue?style=flat-square&logo=python)
-![C](https://img.shields.io/badge/C-Language-lightgrey?style=flat-square&logo=c)
-![Pytest](https://img.shields.io/badge/Testing-Pytest-brightgreen?style=flat-square)
-![ESP32](https://img.shields.io/badge/Hardware-ESP32-red?style=flat-square&logo=espressif)
+An undergraduate student majoring in Automation, with a strong focus on **Software Engineering**. Core interests lie in **AI Agent Development**, **Large Language Model (LLM) Applications**, and **Backend Engineering**.
 
 ---
 
-###  Core Projects
+### 🛠️ Tech Stack & Tools
 
-####  [Python-Agent-Lab](https://github.com/li888il/python-coding)(https://github.com/li888il/Agent-Lab)
-A robust, lightweight local AI Agent framework built from scratch.
-- **Tool Calling**: Native JSON parsing & tool routing.
-- **Context Management**: Sliding window truncation to prevent token overflow & context pollution.
-- **Robustness**: Multi-layer `try-except` blocks ensuring zero-crash during API timeouts.
-- **Testing**: Fully covered core logic using `pytest`.
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" alt="C" />
+  <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite" />
+  <img src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi" alt="FastAPI" />
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Streamlit" />
+  <img src="https://img.shields.io/badge/Pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white" alt="Pytest" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white" alt="ESP32" />
+</p>
 
 ---
 
 ### 📊 GitHub Stats
 
-[![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=li888il&show_icons=true&theme=radical&hide_title=true)](https://github.com/li888il)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=li888il&show_icons=true&theme=radical" alt="LI888IL's GitHub stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=li888il&layout=compact&theme=radical" alt="Top Langs" width="48%" />
+</p>
 
 ---
 
-![Python](https://img.shields.io/badge/Python-3.10%2B-blue)
-![Tests](https://img.shields.io/badge/Tests-passing-brightgreen)
-![License](https://img.shields.io/badge/License-MIT-yellow)
-![Status](https://img.shields.io/badge/Status-Active-success)
+### 🚀 Featured Project: AI Agent Lab
 
-# Python-Agent-Lab
+*A lightweight and highly robust local AI Agent framework built from scratch.*
 
-一个具备**长期记忆**、**工具调用**和**鲁棒错误处理**的 AI Agent 框架。
-...
+- **Tool Routing**: Implemented native JSON parsing and a dynamic Tools Registry for LLM function calling.
+- **Context Management**: Designed a sliding window truncation mechanism to prevent token overflow and optimize memory usage.
+- **Data Interaction**: Integrated with a local SQLite database to handle real-world data queries (e.g., grade retrieval).
+- **Error Recovery (Robustness)**: Built multi-layer exception handling with state rollback. Handles network timeouts and parameter-missing errors gracefully without crashing.
+- **Streaming Output**: Connected to the streaming API and implemented a typewriter effect for the UI.
+- **Automated Testing**: Wrote comprehensive unit tests using `pytest` to cover core business logic.
+
+🔗 **Repository**: [Python-Agent-Lab](https://github.com/li888il/Agent-Lab)
+
+---
+<p align="center">
+  <i>Code. Test. Refactor. Repeat.</i>
+</p>
