@@ -16,7 +16,7 @@
 
 ###  Core Projects
 
-####  [Python-Agent-Lab](https://github.com/li888il/python-coding)
+####  [Python-Agent-Lab](https://github.com/li888il/python-coding)(https://github.com/li888il/Agent-Lab)
 A robust, lightweight local AI Agent framework built from scratch.
 - **Tool Calling**: Native JSON parsing & tool routing.
 - **Context Management**: Sliding window truncation to prevent token overflow & context pollution.
